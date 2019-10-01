@@ -1,0 +1,105 @@
+.main {
+    width:100%;
+    height:100%;
+    display:flex;
+    background-color:red;
+}
+.login{
+    margin-top:60px;
+    margin-left:10%;
+    margin-right:20px;
+    margin-bottom:20px;
+    background-color:pink;
+    width:80%;
+    height:80%;
+    background-image: url('1.jpeg');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.left {
+    width:40%;
+    height:100%;
+    background-color:white;
+}
+
+.inputlabel {
+    font-size:24;
+    font-style:inherit;
+    padding:50px 132px;
+
+}
+
+.right{
+    width:60%;
+    background-color:pink;
+    background-image: url('one1.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.input-1{
+    padding:15px 50px;
+    margin-left:5%;
+}
+.name{
+    width:95%;
+    height:5%;
+    border-radius:5px;
+    outline:none;
+}
+.input-2{
+    padding:15px 50px;
+    margin-left:5%;
+}
+.radio {
+    padding:10px 75px;
+}
+.radio label {
+    color:grey;
+}
+.radio a  {
+    padding:10px 16px;
+}
+.signup{
+    padding:20px 182px;
+    text-align: center;
+}
+button {
+    background-color:#7431f0;
+    width:269px;
+    height:5%;
+    border-radius:5px;
+    margin-left:-112px;
+    text-align:center;
+    border:none;
+    font-size: 16;
+    color:white;
+}
+.line{
+    padding:20px 110px;
+    color:gray;
+}
+.google {
+    padding:20px 182px;
+    text-align:center;
+    font-style:initial;
+    border-radius:10px;
+    border-color:skyblue;
+}
+.facebook {
+    padding:6px 182px;
+    text-align:center;
+    font-style:initial;
+    border-radius:10px;
+}
+.button-1{
+    background-color:whitesmoke;
+    width:269px;
+    height:5%;
+    border-radius:5px;
+    margin-left:-112px;
+    text-align:center;
+    border-color:blue;
+    outline:none;
+    font-size: 16;
+    color:skyblue;
+}
